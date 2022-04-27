@@ -1,7 +1,9 @@
-### Hi there 👋
+Tech addict. Art lover. Passionate about the power of plants.
+
+🌎 ~ Decentralize all the thinks ~
 
 <!--
-**bycolco/bycolco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**colkito/colkito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
