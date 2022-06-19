@@ -1,10 +1,14 @@
-Hi there.
+**Hi there.**
 
-Here are some ideas of how I can _explain myself_ and what interests me now:
+Here are some ideas of how I can _explain myself_:
 
 - ⚡ Tech addict.
 - ❤️‍🔥 Art lover.
 - 🌱 Passionate about the power of plants.
+
+What interests me now:
+
+- 🐾 Digital privacy and online freedom.
 - 🎲 I enjoy encrypting things.
 
 
