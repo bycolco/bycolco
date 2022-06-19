@@ -1,6 +1,14 @@
-Tech addict. Art lover. Passionate about the power of plants.
+Hi there.
 
-🌎 ~ Decentralize all the thinks ~
+Here are some ideas of how I can _explain myself_ and what interests me now:
+
+- ⚡ Tech addict.
+- ❤️‍🔥 Art lover.
+- 🌱 Passionate about the power of plants.
+- 🎲 I like to encrypt things.
+
+
+`1f5d56693bc0dec639098ccfe36e7fad84296f9225f7610eb0832a0d75fb1581c5a9e991c328e6f17ae468a990541f44dd146eac14925872be60f2aea3d11110`
 
 <!--
 **colkito/colkito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
