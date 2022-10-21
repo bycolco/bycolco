@@ -9,7 +9,7 @@ Here are some ideas of how I can _explain myself_:
 What interests me now:
 
 - 🐾 Digital privacy and online freedom.
-- 🎲 I enjoy encrypting things.
+- 🎲 Enjoy encrypting things.
 
 
 <!--
