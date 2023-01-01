@@ -1,28 +1,7 @@
-**Hi there.**
+Tech addict. Art lover. Passionate about the power of plants.
 
-Here are some ideas of how I can _explain myself_:
+I like challenges with Web technologies, Blockchain, IoT, robotics, and open-source.
 
-- ⚡ Tech addict.
-- ❤️‍🔥 Art lover.
-- 🌱 Passionate about the power of plants.
+I'm interested in digital privacy, and I enjoy encrypting things.
 
-What interests me now:
-
-- 🐾 Digital privacy and online freedom.
-- 🎲 Enjoy encrypting things.
-
-
-<!--
-**colkito/colkito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Decentralize all the thinks
