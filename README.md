@@ -4,4 +4,4 @@ I like challenges with Web technologies, Blockchain, IoT, robotics, and open-sou
 
 I'm interested in digital privacy, and I enjoy encrypting things.
 
-🧩 Decentralize all the thinks
+🧩 Decentralize all the thinks.
