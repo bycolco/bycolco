@@ -1,4 +1,4 @@
-Tech addict. Art lover. Passionate about the power of plants.
+Tech addict. Art lover. Passionate about the power of nature.
 
 I like challenges with Web technologies, Blockchain, AI, IoT, robotics, and open-source.
 
