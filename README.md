@@ -1,5 +1,5 @@
-Tech addict. Art lover. Passionate about the power of nature.
+Hacking for freedom through code. Addicted to cutting-edge tech like blockchain, AI, IoT, and robotics.
 
-I like challenges with Web technologies, Blockchain, AI, IoT, robotics, and open-source.
+I'm interested in creating better tech experiences - securely encrypted of course.
 
-I'm interested in digital privacy and online freedom. I enjoy encrypting things.
+Art fuels the soul, nature reignites it.
